@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(177, 177, 66);
+    font-family: 'Times New Roman', Times, serif;
+}
+.b{
+    border:dotted  blueviolet;
+    max-width: fit-content;
+    background-color: brown;
+}
+.ba{
+    background-color: red;
+    border:solid;
+    max-width: fit-content;
+}
